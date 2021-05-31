@@ -1,6 +1,6 @@
 ## Hi, I’m Jamie Turek
 
-- I’m a professional web developer who's interested in creating fast, modern websites using `Django` and `React`. I also develop `ASP.NET` applications professionally.
+- I’m a professional web developer who's passionate about creating dynamic, intelligent, modern websites using `Django` and `React`. I also develop `ASP.NET` applications professionally.
 
 - 💞️ I'm heavily interested in **cryptocurrency** and the **stock market** and I'm interested and studying towards automating the buy / sell process for myself. 
 
