@@ -4,8 +4,6 @@
 
 - 💞️ I'm heavily interested in **cryptocurrency** and the **stock market** and I'm continually developing and learning with the goal of automating the buy / sell process for myself. 
 
-- 🌱 I’ve recently taught myself `React` and I plan to make this my primary frontend framework moving forward. 
-
 - My goal this year is to publish my Crypto application. [Find out more](https://github.com/J-TUREK/Crypto)   
 
 - 📫 Contact me on [LinkedIn](https://www.linkedin.com/in/jamie-turek-95b338106/)
