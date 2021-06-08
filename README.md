@@ -2,7 +2,7 @@
 
 - I’m a professional web developer who's passionate about creating dynamic, intelligent, modern websites using `Django` and `React`. I develop `ASP.NET` applications professionally.
 
-- 💞️ I'm heavily interested in **cryptocurrency** and the **stock market** and I'm continually developing and learning with the goal of automating the buy / sell process for myself. 
+- 💞️ I'm heavily interested in **Cryptocurrency** and the **Stock Market** and I'm continually developing and learning with the goal of automating the buy / sell process for myself. 
 
 - My goal this year is to publish my Crypto application. [Find out more](https://github.com/J-TUREK/Crypto)   
 
