@@ -1,4 +1,4 @@
-## Hi, I’m Jamie Turek
+## Hi, I’m Jamie
 
 - I’m a professional web developer and mathematics graduate who's passionate about creating dynamic, intelligent, modern websites using `Django` and `React`. I develop `ASP.NET` applications professionally.
 
