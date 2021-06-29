@@ -1,6 +1,6 @@
 ## Hi, I’m Jamie Turek
 
-- I’m a professional web developer with a degree in mathematics who's passionate about creating dynamic, intelligent, modern websites using `Django` and `React`. I develop `ASP.NET` applications professionally.
+- I’m a professional web developer and mathematics graduate who's passionate about creating dynamic, intelligent, modern websites using `Django` and `React`. I develop `ASP.NET` applications professionally.
 
 - 💞️ I'm heavily interested in **Cryptocurrency** and the **Stock Market** and I'm continually developing my knowledge of financial markets and the most relevant software skills with the goal of automating the trading process.
 
