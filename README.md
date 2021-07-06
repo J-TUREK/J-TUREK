@@ -1,12 +1,14 @@
 ## Hi, I’m Jamie
 
-- I’m a professional web developer and mathematics graduate who's passionate about creating dynamic, intelligent, modern websites using `Django` and `React`. I develop `ASP.NET` applications professionally.
+- I’m a professional web developer and mathematics graduate who's passionate about creating dynamic, intelligent, modern websites.
 
-- 💞️ I'm heavily interested in **Cryptocurrency** and the **Stock Market** and I'm continually developing my knowledge of financial markets and the most relevant software skills with the goal of automating the trading process.
+- I develop using `Django` and `React` in my spare time and work full-time as a `.NET` developer.
 
-- My goal this year is to publish my Crypto application. [Find out more](https://github.com/J-TUREK/Crypto)   
+- I'm heavily interested in **Cryptocurrency** and the **Stock Market** and I'm continually developing my knowledge of financial markets and the most relevant software skills with the goal of automating the trading process.
 
-- 📫 Contact me on [LinkedIn](https://www.linkedin.com/in/jamie-turek-95b338106/)
+- [Find out more](https://github.com/J-TUREK/Crypto) about my current web project.   
+
+- 📫 Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/jamie-turek-95b338106/)
 
 <!---
 J-TUREK/J-TUREK is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
