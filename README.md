@@ -6,7 +6,7 @@ Hi, I’m Jamie,
 
 - I'm heavily interested in **Cryptocurrency** and the **Stock Market** and I'm continually developing my knowledge of financial markets, trading and investing, as well as pursuing the most relevant software skills to aid my investment strategies programmatically.
 
-- My previously public repository is now private whilst I begin to promote the website.
+- My previously public repository is now private whilst I begin to promote the website. sparktraders.co.uk (coming soon)
 
 - 📫 Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/jamie-turek-95b338106/)
 
