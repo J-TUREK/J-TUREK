@@ -8,6 +8,8 @@ Hi, I’m Jamie,
 
 - My previously public repository is now private whilst I begin to promote the website. sparktraders.co.uk (coming soon)
 
+![Spark-07](https://user-images.githubusercontent.com/69197760/134253839-5ee7ddfd-2c27-457e-b916-a8f160b5b10d.png)
+
 - 📫 Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/jamie-turek-95b338106/)
 
 <!---
