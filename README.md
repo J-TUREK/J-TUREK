@@ -1,6 +1,6 @@
 Hi, I’m Jamie,
 
-- A professional web developer and mathematics graduate who's passionate about creating dynamic, intelligent, modern, user-centric websites and dashboards.
+- A professional web developer and mathematics graduate passionate about creating dynamic, intelligent, user-centric websites and dashboards.
 
 - My preferred development stack is `Django` with `React` which I use in my spare time, and work full-time as a `.NET` developer. All of the commits on Github reflect commits made outside of 'working hours'.
 
