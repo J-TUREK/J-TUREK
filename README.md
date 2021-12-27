@@ -12,6 +12,8 @@ Hi, I’m Jamie,
 
 - 📫 Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/jamie-turek-95b338106/)
 
+![image](https://user-images.githubusercontent.com/69197760/147483116-3f0ea10b-164f-4bd6-96e1-454dce132e90.png)
+
 <!---
 J-TUREK/J-TUREK is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
