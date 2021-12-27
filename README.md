@@ -15,7 +15,7 @@ Hi, I’m Jamie,
 ### SparkTraders "Insights" customisable view
 ![Picture3](https://user-images.githubusercontent.com/69197760/141106908-94f8a5bf-bae8-4e28-9391-718872365a1c.png)
 
-### Analysis of historic data for the detection of bullish and bearish divergence of MACD for LONG and SHORT signals
+### Analysis of historic price data for the detection of bullish and bearish divergence using MACD to produce LONG and SHORT signals, including price targets and stop loss.
 ![image](https://user-images.githubusercontent.com/69197760/147483116-3f0ea10b-164f-4bd6-96e1-454dce132e90.png)
 
 <!---
