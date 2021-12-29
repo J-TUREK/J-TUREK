@@ -1,14 +1,11 @@
-Hi, I’m Jamie,
+- I am a professional web developer and mathematics graduate passionate about creating dynamic, intelligent websites and dashboards, with a strong skillset for data analytics and modelling.
 
-- A professional web developer and mathematics graduate passionate about creating dynamic, intelligent, user-centric websites and dashboards.
-
-- My preferred development stack is `Django` with `React` which I use in my spare time, and work full-time as a `.NET` developer. All of the commits on Github reflect commits made outside of 'working hours'.
+- My preferred web development stack is `Django` with `React`, and work full-time as a `.NET` developer. I use `Python`, particularly `Pandas` and `Numpy` for all of my data analytics.
 
 - I'm heavily interested in **Cryptocurrency** and the **Stock Market** and I'm continually developing my knowledge of financial markets, trading and investing, as well as pursuing the most relevant software skills to aid my investment strategies programmatically.
 
-- A good deal of my time is spent analysing market data for the 
-
 - My main project 'SparkTraders', (in a private repository) is a fully bootstrapped cryptocurrency tracking and monitoring website / dashboard, pictured below. sparktraders.crypto (coming 2022)
+This project has two large components- the web interface, and the underlying algorithms
 
 - 📫 Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/jamie-turek-95b338106/)
 
@@ -16,9 +13,6 @@ Hi, I’m Jamie,
 ![Picture3](https://user-images.githubusercontent.com/69197760/141106908-94f8a5bf-bae8-4e28-9391-718872365a1c.png)
 
 ### Analysis of historic price data for the detection of bullish and bearish divergence using MACD to produce LONG and SHORT signals, including price targets and stop loss.
-![image](https://user-images.githubusercontent.com/69197760/147483116-3f0ea10b-164f-4bd6-96e1-454dce132e90.png)
+![image](https://user-images.githubusercontent.com/69197760/147685014-aec99110-dc11-491d-8a45-87b396f5cf58.png)
+![image](https://user-images.githubusercontent.com/69197760/147682959-19d505c4-53b9-4ff7-af4b-795ec3ff7c4b.png)
 
-<!---
-J-TUREK/J-TUREK is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
