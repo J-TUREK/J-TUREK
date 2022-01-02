@@ -14,5 +14,6 @@ This project has two large components- the web interface, and the underlying alg
 
 ### Analysis of historic price data for the detection of bullish and bearish divergence using MACD to produce LONG and SHORT signals, including price targets and stop loss.
 ![image](https://user-images.githubusercontent.com/69197760/147685014-aec99110-dc11-491d-8a45-87b396f5cf58.png)
-![image](https://user-images.githubusercontent.com/69197760/147682959-19d505c4-53b9-4ff7-af4b-795ec3ff7c4b.png)
+![image](https://user-images.githubusercontent.com/69197760/147880470-a499dedc-e171-427e-b5f3-c342f7a7d079.png)
+
 
