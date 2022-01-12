@@ -1,11 +1,18 @@
-- I'm passionate about creating dynamic, intelligent websites and dashboards, with a strong enphasis and enjoyment for data analytics and modelling.
+## What you'll find here:
 
-- My preferred web development stack is `Django` with `React`, and work full-time as a `.NET` developer. I use `Python`, particularly `Pandas` and `Numpy` for data analytics.
+- `Django` + `React` based websites and dashboards related to financial markets, mainly `Cryptocurrency`.
+- Data analytics and modelling. 
+- Timeseries analysis with `Python`, particularly `Pandas`, `Numpy`, `Matplotlib`.
+- Introduction to `Machine Learning` models for financial markets.
+- Trading algorithms 🤖.
+- NFT and web3 experimentation.
 
-- I'm heavily interested in **Cryptocurrency** and the **Stock Market** and I'm continually developing my knowledge of financial markets, trading and investing, as well as pursuing the most relevant software skills to aid my investment strategies programmatically.
+I'm looking to expand my network and collaborate on exciting projects. Find me on [LinkedIn](https://www.linkedin.com/in/jamie-turek-95b338106/)
 
-- My main project 'SparkTraders', (in a private repository) is a fully bootstrapped cryptocurrency tracking and monitoring website / dashboard, pictured below. sparktraders.crypto (coming 2022)
-This project has two large components- the web interface, and the underlying algorithms
+## Private Repos and projects
+
+- SparkTraders™ is a fully bootstrapped cryptocurrency tracking and monitoring website / dashboard, pictured below. 
+The project consists of two large components- the web interface, and the underlying real-time market analysis.
 
 ### SparkTraders "Insights" customisable view
 ![Picture3](https://user-images.githubusercontent.com/69197760/141106908-94f8a5bf-bae8-4e28-9391-718872365a1c.png)
