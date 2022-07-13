@@ -4,12 +4,9 @@
 - Data analytics and modelling. 
 - Timeseries analysis with `Python`, particularly `Pandas`, `Numpy`, `Matplotlib`.
 - Introduction to `Machine Learning` models for financial markets.
-- Trading algorithms 🤖.
-- NFT and web3 experimentation.
+- Trading algorithms.
 
-I'm looking to expand my network and collaborate on exciting projects. Find me on [LinkedIn](https://www.linkedin.com/in/jamie-turek-95b338106/)
-
-## Private Repos and projects
+## Private Repos and projects:
 
 - SparkTraders™ is a fully bootstrapped cryptocurrency tracking and monitoring website / dashboard, pictured below. 
 The project consists of two large components- the web interface, and the underlying real-time market analysis.
